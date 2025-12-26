@@ -57,3 +57,4 @@ public class TiketBioskopApp extends JFrame {
         p.add(card);
         return p;
     }
+// dsnfhirhiuahroawsRFOrwju[0a  2JoagW  HF89HGRO8A  UJ
